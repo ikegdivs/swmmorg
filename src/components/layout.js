@@ -1,4 +1,5 @@
 import React from 'react';
+import "./layout.css";
 import styled from '@emotion/styled';
 import { MDXProvider } from '@mdx-js/react';
 

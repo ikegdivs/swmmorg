@@ -1,12 +1,12 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
+    pathPrefix: '/swmmorg',
     siteUrl: 'https://www.swmm-js.org/',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
-    logo: '/invis.svg',
+    logo: './invis.svg',
     logoLink: 'https://www.swmm-js.org/',
     title:
       "<a href='https://www.swmm-js.org'>swmm-js</a>",
